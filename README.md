@@ -1,2 +1,2 @@
 # ACMCore
-Application Configuration Manager  WEb API in .Net 6
+Application Configuration Manager  Web API in .Net 7.
